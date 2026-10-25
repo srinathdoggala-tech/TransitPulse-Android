@@ -180,7 +180,7 @@ Here is a look at LoopWell's clean, distraction-free interface:
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/srinathdoggala-tech/TransitPulse-Android.git)
+   git clone https://github.com/srinathdoggala-tech/TransitPulse-Android.git
    cd TransitPulse-Android
    ```
 2. **Configure Firebase:**
