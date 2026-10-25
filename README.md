@@ -180,8 +180,8 @@ Here is a look at LoopWell's clean, distraction-free interface:
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/LoopWell.git
-   cd LoopWell
+   git clone (https://github.com/srinathdoggala-tech/TransitPulse-Android.git)
+   cd TransitPulse-Android
    ```
 2. **Configure Firebase:**
    Create a Firebase project, enable Firestore and Authentication (Anonymous & Google). Download `google-services.json` and place it in the `app/` directory. Do not commit this file.
